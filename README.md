@@ -17,3 +17,5 @@ https://monosnap.com/file/P3SveRGg1vkywSTrcRQk9Nov1VjLCR
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
 
 https://monosnap.com/file/ocZzAVqKUatTU4IesxGSErnoGRe24q
+
+https://github.com/AlessioItaliano/goit-node-hw-01-basics
